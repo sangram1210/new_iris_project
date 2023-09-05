@@ -1,3 +1,0 @@
-Flask
-Numpy
-Pandas
